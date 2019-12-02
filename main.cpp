@@ -6,7 +6,7 @@ int main()
 {
     // This program will calculate the area of room in squre feet
 
-/*
+
 
     cout << "Enter the width of the room: ";
     int room_width {0};
@@ -17,7 +17,7 @@ int main()
     cin >> room_length;
 
     cout << "the area of the room is" << room_width * room_length << "square feet" <<endl;
-    */
+    
 
     //program to calculate the price of cleaning rooms
 
